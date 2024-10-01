@@ -1,0 +1,96 @@
+@import url('https://fonts.cdnfonts.com/css/handwriting');
+.container{
+    font-family: 'Handwriting', sans-serif;
+                                                
+        transform: rotate(-5deg); 
+        
+    h5{
+        font-size: 50px;
+    }
+   
+}
+
+.myBox{
+padding-top: 390px;
+}
+
+
+.tittle-p{
+    display: flex;
+   
+ padding-left: 3em;
+
+    p{
+        font-size: 1.5em;
+        font-weight: bold;
+        
+    }
+    .p1{
+        margin-left: 1em;
+    }
+    .p2{
+        margin-left: 5em;
+    }
+}
+
+.div-item{
+    display: flex;
+    justify-content: space-between;
+    p{
+        font-size: 1.5em;
+        margin: 0;
+        margin-left: 3em;
+    
+    }
+   
+}
+
+.div-tot{
+    display: flex;
+    justify-content: end;
+    p{
+        font-size: 1.5em;
+        margin: 0;
+      font-weight: bold;
+      margin-left: 0.5em;
+        
+    }
+}
+
+hr{
+    transform: rotate(-1deg);
+    opacity: 3;
+width: 95%;
+margin-left: 2.5em;
+
+}
+
+.button-elimina{
+    
+    background-color: red;
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    font-size: 1em;
+    padding-left: 0.5em;
+    padding-bottom: 0;
+    padding-top: 0;
+    padding-right: 0.5em;
+    margin-bottom: 0.3em;
+}
+
+.span-total{
+text-align: end;
+margin-left: 2em;
+}
+
+.div-form{
+  justify-content: center;
+  margin-left: 2.1em;
+ margin-bottom: 3em;
+}
+
+input{
+    width: 90%;
+    
+}
